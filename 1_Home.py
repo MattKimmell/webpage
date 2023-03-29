@@ -7,7 +7,7 @@ import pandas as pd
 
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="My Webpage", page_icon=":high_brightness:", layout="wide")
+st.set_page_config(page_title="Matthew Kimmell", page_icon=":chart_with_upwards_trend:", layout="wide")
 
 def load_lottieurl(url):
     r = requests.get(url)
@@ -56,7 +56,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            I turn data into visualizations and write for people that:
+            I visualize data and write for people that:
             - are interested in learning about Bitcoin
             - enjoy storytelling through charts and graphs
             - want to perform meaningful and impactful analyses by themselves

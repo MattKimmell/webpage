@@ -51,7 +51,7 @@ tickers = get_tickers_list()['Symbol']
 # --- Add Headline to Webpage ---
 st.title("Correlation Calculator!")
 st.write(
-            "This tab is still in testing"
+            "This tab is still in testing!"
         )
 st.write('---')
 st.write('#')
