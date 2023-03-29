@@ -50,6 +50,9 @@ tickers = get_tickers_list()['Symbol']
 
 # --- Add Headline to Webpage ---
 st.title("Correlation Calculator!")
+st.write(
+            "This tab is still in testing"
+        )
 st.write('---')
 st.write('#')
 
@@ -113,8 +116,8 @@ if len(stock_options) + len(crypto_options) > 1:
         #title= "Correlation Matrix"
     )
 )
-	st.write(adjusted_df[adjusted_df.index >= startDate])
-	st.write(rolling[rolling.index >= startDate])
+	#st.write(adjusted_df[adjusted_df.index >= startDate])
+	#st.write(rolling[rolling.index >= startDate])
 	st.write(rolling[rolling.index >= startDate].plot(title= 'Rolling 30 Day Correlation'), layout_xaxis_range=[startDate, endDate]) #, xlim= (startDate, endDate)))
 	st.write(adjusted_df.plot(title= 'Daily Percentage Price Change'))
 	st.write(big_df.plot(title= 'Daily Price (usd)'))

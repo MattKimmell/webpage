@@ -39,7 +39,7 @@ with st.container():
         st.subheader("Hi, I am Matthew Kimmell :wave:")
         st.title("Your Friendly Neighborhood Bitcoin Pal")
         st.write(
-            "Welcome to humble abode, it's not much, but if you stick around long enough, I promise to teach you something new :bulb:"
+            "Welcome to my humble abode, it's a simple space, but if you stick around long enough, I promise to teach you something new :bulb:"
         )
         st.write("[Twitter](https://twitter.com/MatthewKimmell)")
         #st.write("[YouTube](https://www.youtube.com/channel/UCV00jVwqZ_cyP-yygLtWFjA)")
