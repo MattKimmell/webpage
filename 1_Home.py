@@ -1,7 +1,6 @@
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
-from streamlit_option_menu import option_menu
 from PIL import Image
 import json
 import pandas as pd
