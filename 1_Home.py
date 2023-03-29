@@ -7,7 +7,7 @@ import pandas as pd
 
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="Matthew Kimmell", page_icon=":chart_with_upwards_trend:", layout="wide")
+st.set_page_config(page_title="Matthew Kimmell", page_icon="chart_with_upwards_trend", layout="wide")
 
 def load_lottieurl(url):
     r = requests.get(url)
