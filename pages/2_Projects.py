@@ -55,6 +55,7 @@ with st.container():
         st.write("[Taproot: Bitcoin's Most Recent Major Upgrade](https://coinshares.com/research/taproot-explained-bitcoin-protocol-upgrade)")
         st.write("[A Model of Bitcoin Monetary Demand](https://coinshares.com/research/a-total-addressable-market-model-for-monetary-bitcoin-demand)")
         st.write("[The Market Impact of Bitcoin Mining Cyclicality](https://coinshares.com/research/cyclicality-in-the-bitcoin-mining-industry-can-have-a-small-but-notable-impact-on-the-bitcoin-price)")
+        st.write("[The Stablecoin Gateway to Bitcoin Adoption Part One](https://medium.com/coinshares/the-stablecoin-gateway-to-bitcoin-adoption-part-one-41036f0c935a)")
     with right_column:
         st.write("[History and Hardships of Bitcoin Block Production](https://medium.com/coinshares/the-history-and-woes-of-bitcoin-block-production-207f1a54bbba)")
         st.write("[Bitcoin and BRC-20: 75 days later](https://medium.com/coinshares/bitcoin-and-brc-20-75-days-later-eb221dc4af08)")
@@ -63,3 +64,4 @@ with st.container():
         st.write("[The Value of Ether Part Two: Adoption's Impact on Future Supply](https://medium.com/coinshares/the-value-of-ether-part-2-adoptions-impact-on-ether-supply-480e8ca5ee11)")
         st.write("[The Value of Ether Part Three: The Past and Future of Block Space Demand](https://medium.com/coinshares/the-value-of-ether-part-3-the-past-and-future-of-block-space-demand-d45cc0c27c27)")
         st.write("[The Value of Ether Part Four: It's All About the Burn](https://medium.com/coinshares/the-value-of-ether-part-4-its-all-about-l1-burn-c8fe170a6ebc)")
+        st.write("[The Stablecoin Gateway to Bitcoin Adoption Part One](https://medium.com/coinshares/the-stablecoin-gateway-to-bitcoin-adoption-part-two-122d396b8016)")
