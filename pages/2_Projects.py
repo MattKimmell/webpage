@@ -64,4 +64,4 @@ with st.container():
         st.write("[The Value of Ether Part Two: Adoption's Impact on Future Supply](https://medium.com/coinshares/the-value-of-ether-part-2-adoptions-impact-on-ether-supply-480e8ca5ee11)")
         st.write("[The Value of Ether Part Three: The Past and Future of Block Space Demand](https://medium.com/coinshares/the-value-of-ether-part-3-the-past-and-future-of-block-space-demand-d45cc0c27c27)")
         st.write("[The Value of Ether Part Four: It's All About the Burn](https://medium.com/coinshares/the-value-of-ether-part-4-its-all-about-l1-burn-c8fe170a6ebc)")
-        st.write("[The Stablecoin Gateway to Bitcoin Adoption Part One](https://medium.com/coinshares/the-stablecoin-gateway-to-bitcoin-adoption-part-two-122d396b8016)")
+        st.write("[The Stablecoin Gateway to Bitcoin Adoption Part Two](https://medium.com/coinshares/the-stablecoin-gateway-to-bitcoin-adoption-part-two-122d396b8016)")
